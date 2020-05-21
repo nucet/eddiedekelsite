@@ -1,0 +1,804 @@
+---
+-
+    id_key: "d1986-asset"
+    categories: "DT"
+    tags:
+      - "non-expected utility"
+    authors:
+      - "Dekel, Eddie"
+    title: "An axiomatic characterization of preferences under uncertainty: Weakening the independence axiom"
+    journal: "Journal of Economic Theory"
+    vol: 40
+    num: 2
+    pages: "304-318"
+    year: 1986
+    pub: "Elsevier"
+    pdf: "weakening-independence-axiom.pdf"
+-
+    id_key: "d1987-common"
+    categories: "GT"
+    tags:
+      - "common knowledge"
+    authors:
+      - "Brandenburger, Adam"
+      - "Dekel, Eddie"
+    title: "Common knowledge with probability 1"
+    journal: "Journal of Mathematical Economics"
+    vol: 16
+    num: 3
+    pages: "237-245"
+    year: 1987
+    pub: "Elsevier"
+    pdf: "common-knowledge-with-prob1.pdf"
+-
+    id_key: "d1987-thesis"
+    tags:
+      - "other"
+    authors: "Dekel, Eddie"
+    title: "Essays on choices and beliefs in uncertainty and game theory"
+    year: 1987
+    pdf: "dekel-thesis.pdf"
+-
+    id_key: "d1987-correlated"
+    categories: "GT"
+    tags:
+      - "rationalizability"
+      - "solution concepts"
+    authors:
+      - "Brandenburger, Adam"
+      - "Dekel, Eddie"
+    title: "Rationalizability and correlated equilibria"
+    journal: "Econometrica: Journal of the Econometric Society"
+    pages: "1391-1402"
+    year: 1987
+    pub: "JSTOR"
+    pdf: "rationalizability-and-correlated-equilibria.pdf"
+-
+    id_key: "d1989-overview"
+    categories: 
+      - "GT"
+      - "DT"
+    tags:
+      - "surveys and perspectives"
+      - "refinements"
+      - "lexicographic beliefs"
+    authors:
+      - "Blume, Lawrence"
+      - "Brandenburger, Adam"
+      - "Dekel, Eddie"
+    title: "An overview of lexicographic choice under uncertainty"
+    journal: "Annals of Operations Research"
+    vol: 19
+    num: 1
+    pages: "229-246"
+    year: 1989
+    pub: "Springer"
+    pdf: "lexicographic-choice-uncertainty.pdf"
+-
+    id_key: "d1989-role"
+    tags:
+      - "surveys and perspectives"
+      - "common knowledge"
+      - "rationalizability"
+    authors:
+      - "Brandenburger, Adam"
+      - "Dekel, Eddie"
+    title: "The role of common knowledge assumptions in game theory"
+    journal: "Chapter in The Economics of Missing Markets, Information, and Games"
+    pages: "46-62"
+    year: 1989
+    pub: "Oxford University Press"
+    pdf: "role-of-common-knowledge-assumptions-in-game-theory.pdf"
+-
+    id_key: "d1989-asset"
+    categories: "DT"
+    tags:
+      - "non-expected utility"
+    authors:
+      - "Dekel, Eddie"
+    title: "Asset Demand Without the Independence Axiom"
+    journal: "Econometrica"
+    pages: "163-169"
+    year: 1989
+    pub: "JSTOR"
+    pdf: "asset-demand-without-the-independence-axiom.pdf"
+-
+    id_key: "d1990-collusion"
+    tags:
+      - "other"
+    authors:
+      - "Dekel, Eddie"
+      - "Scotchmer, Suzanne"
+    title: "Collusion through insurance: sharing the cost of oil spill cleanups"
+    journal: "The American Economic Review"
+    vol: 80
+    num: 1
+    pages: "249-252"
+    year: 1990
+    pub: "JSTOR"
+    pdf: "collusion-through-insurance.pdf"
+-
+    id_key: "d1990-one-sided"
+    categories: "GT"
+    tags:
+      - "refinements"
+    authors:
+      - "Dekel, Eddie"
+      - "Farrell, Joseph"
+    title: "One-sided patience with one-sided communication does not justify Stackelberg equilibrium"
+    journal: "Games and Economic Behavior"
+    vol: 2
+    num: 4
+    pages: "299-303"
+    year: 1990
+    pub: "Elsevier"
+    pdf: "one-sided-patience.pdf"
+-
+    id_key: "d008"
+    categories: "GT"
+    tags:
+      - "common knowledge"
+      - "rationalizability"
+      - "refinements"
+    authors:
+      - "Dekel, Eddie"
+      - "Fudenberg, Drew"
+    title: "Rational behavior with payoff uncertainty"
+    journal: "Journal of Economic Theory"
+    vol: 52
+    pages: "243-267"
+    year: 1990
+    pdf: "rational-behavior-payoff-uncertainty.pdf"
+-
+    id_key: "d009"
+    categories: "GT"
+    tags:
+      - "refinements"
+    authors: "Dekel, Eddie"
+    title: "Simultaneous offers and the inefficiency of bargaining: A two-period example"
+    journal: "Journal of Economic Theory"
+    vol: 50
+    num: 2
+    pages: "300-308"
+    year: 1990
+    pub: "Elsevier"
+    pdf: "simultaneous-offers.pdf"
+-
+    id_key: "d010"
+    categories: 
+      - "GT"
+      - "DT"
+    tags:
+      - "solution concepts"
+      - "non-expected utility"
+    authors:
+      - "Dekel, Eddie"
+      - "Safra, Zvi"
+      - "Segal, Uzi"
+    title: "Existence and dynamic consistency of Nash equilibrium with non-expected utility preferences"
+    journal: "Journal of Economic Theory"
+    vol: 55
+    num: 2
+    pages: "229-246"
+    year: 1991
+    pub: "Elsevier"
+    pdf: "existence-dynamic-consistency-of-ne.pdf"
+-
+    id_key: "d011"
+    categories: 
+      - "GT"
+      - "DT"
+    tags:
+      - "refinements"
+      - "lexicographic beliefs"
+    authors:
+      - "Blume, Lawrence"
+      - "Brandenburger, Adam"
+      - "Dekel, Eddie"
+    title: "Lexicographic probabilities and choice under uncertainty"
+    journal: "Econometrica: Journal of the Econometric Society"
+    vol: 
+    num: 
+    pages: "61-79"
+    year: 1991
+    pub: "JSTOR"
+    pdf: "lexicographic-probabilities-and-choice-under-uncertainty.pdf"
+-
+    id_key: "d012"
+    categories: 
+      - "GT"
+      - "DT"
+    tags:
+      - "refinements"
+      - "lexicographic beliefs"
+    authors:
+      - "Blume, Lawrence"
+      - "Brandenburger, Adam"
+      - "Dekel, Eddie"
+    title: "Lexicographic probabilities and equilibrium refinements"
+    journal: "Econometrica: Journal of the Econometric Society"
+    pages: "81-98"
+    year: 1991
+    pub: "JSTOR"
+    pdf: "lexicographic-probabilities-and-equilibrium-refinements.pdf"
+-
+    id_key: "d013"
+    categories: "GT"
+    tags:
+      - "solution concepts"
+    authors:
+      - "Brandenburger, Adam"
+      - "Dekel, Eddie"
+      - "Geanakoplos, John"
+    title: "Correlated equilibrium with generalized information structures"
+    journal: "Games and Economic Behavior"
+    vol: 4
+    num: 2
+    pages: "182-201"
+    year: 1992
+    pub: "Elsevier"
+    pdf: "corr-eqm-gen-info-struc.pdf"
+-
+    id_key: "d014"
+    categories: "GT"
+    tags:
+      - "evolution"
+    authors:
+      - "Dekel, Eddie"
+      - "Scotchmer, Suzanne"
+    title: "On the evolution of optimizing behavior"
+    journal: "Journal of Economic Theory"
+    vol: 57
+    num: 2
+    pages: "392-406"
+    year: 1992
+    pub: "Citeseer"
+    pdf: "evolution-optimizing-behavior.pdf"
+-
+    id_key: "d015"
+    categories: "GT"
+    tags:
+      - "refinements"
+      - "solution concepts"
+    authors:
+      - "Ben-Porath, Elchanan"
+      - "Dekel, Eddie"
+    title: "Signaling future actions and the potential for sacrifice"
+    journal: "Journal of Economic Theory"
+    vol: 57
+    num: 1
+    pages: "36-51"
+    year: 1992
+    pub: "Elsevier"
+    pdf: "signaling-future-actions.pdf"
+-
+    id_key: "d016"
+    categories: "GT"
+    tags:
+      - "common knowledge"
+      - "type spaces"
+    authors:
+      - "Brandenburger, Adam"
+      - "Dekel, Eddie"
+    title: "Hierarchies of beliefs and common knowledge"
+    journal: "Journal of Economic Theory"
+    vol: 59
+    num: 1
+    pages: "189-198"
+    year: 1993
+    pub: "Elsevier"
+    pdf: "hierarchies-beliefs-common-knowledge.pdf"
+-
+    id_key: "d017"
+    categories: "GT"
+    tags:
+      - "evolution"
+    authors:
+      - "Ben-Porath, Elchanan"
+      - "Dekel, Eddie"
+      - "Rustichini, Aldo"
+    title: "On the relationship between mutation rates and growth rates in a changing environment"
+    journal: "Games and Economic Behavior"
+    vol: 5
+    num: 4
+    pages: "576-603"
+    year: 1993
+    pub: "Elsevier"
+    pdf: "mutation-and-growth-rates-rhanging-enviro.pdf"
+-
+    id_key: "d018"
+    categories: "GT"
+    tags:
+      - "surveys and perspectives"
+      - "refinements"
+    authors: "Dekel, Eddie"
+    title: "Discussion of: 'Foundations of game theory,' by Kenneth J. Binmore and 'Refinements of Nash equilibrium' by Eric van Damme"
+    journal: "Advances in economic theory: Sixth World Congress"
+    pages: "76"
+    year: 1995
+    pub: "Cambridge Univ Pr"
+    pdf: "dekel-discussion-6th-world-congress.pdf"
+-
+    id_key: "d019"
+    categories: "GT"
+    tags:
+      - "surveys and perspectives"
+      - "common knowledge"
+      - "rationalizability"
+    authors:
+      - "Dekel, Eddie"
+      - "Gul, Frank"
+    title: "Rationality and knowledge in game theory"
+    journal: "Chapter in Advances in economics and econometrics: Theory and applications, Seventh World Congress"
+    vol: "Ed. Kreps, David M., Wallis, Kenneth F."
+    num: 1
+    pages: "87-172"
+    year: 1997
+    pdf: "rationality-and-knowledge-in-game-theory.pdf"
+-
+    id_key: "d020"
+    categories: "DT"
+    tags:
+      - "surveys and perspectives"
+      - "unawareness"
+    authors:
+      - "Dekel, Eddie"
+      - "Lipman, Barton L"
+      - "Rustichini, Aldo"
+    title: "Recent developments in modeling unforeseen contingencies"
+    journal: "European Economic Review"
+    vol: 42
+    num: 43895
+    pages: "523-542"
+    year: 1998
+    pub: "Elsevier"
+    pdf: "recent-dev-unforeseen-contingencies.pdf"
+-
+    id_key: "d1998-standard"
+    categories: "DT"
+    tags:
+      - "unawareness"
+    authors:
+      - "Dekel, Eddie"
+      - "Lipman, Barton L"
+      - "Rustichini, Aldo"
+    title: "Standard state-space models preclude unawareness"
+    journal: "Econometrica"
+    vol: 66
+    num: 1
+    pages: "159-173"
+    year: 1998
+    pub: "JSTOR"
+    pdf: "standard-state-space-models-preclude.pdf"
+-
+    id_key: "d1999-evolution"
+    categories: "GT"
+    tags:
+      - "evolution"
+    authors:
+      - "Dekel, Eddie"
+      - "Scotchmer, Suzanne"
+    title: "On the evolution of attitudes towards risk in winner-take-all games"
+    journal: "Journal of Economic Theory"
+    vol: 87
+    num: 1
+    pages: "125-143"
+    year: 1999
+    pub: "Elsevier"
+    pdf: "evolution-attitudes-to-risk-win-take-all.pdf"
+-
+    id_key: "d022"
+    categories: "GT"
+    tags:
+      - "refinements"
+      - "solution concepts"
+    authors:
+      - "Dekel, Eddie"
+      - "Fudenberg, Drew"
+      - "Levine, David"
+    title: "Payoff information and self-confirming equilibrium"
+    journal: "Journal of Economic Theory"
+    year: 1999
+    pub: "Elsevier"
+    pdf: "payoff-info-self-confirm-equm.pdf"
+-
+    id_key: "d023"
+    categories: 
+    tags:
+      - "voting theory"
+    authors:
+      - "Dekel, Eddie"
+      - "Piccione, Michele"
+    title: "Sequential voting procedures in symmetric binary elections"
+    journal: "Journal of political Economy"
+    vol: 108
+    num: 1
+    pages: "34-55"
+    year: 2000
+    pub: "The University of Chicago Press"
+    pdf: "sequential-voting-procedures.pdf"
+-
+    id_key: "d2001-representing"
+    categories: "DT"
+    tags:
+      - "unawareness"
+      - "commitment and flexibility"
+    authors:
+      - "Dekel, Eddie"
+      - "Lipman, Barton L"
+      - "Rustichini, Aldo"
+    title: "Representing preferences with a unique subjective state space"
+    journal: "Econometrica"
+    vol: 69
+    num: 4
+    pages: "891-934"
+    year: 2001
+    pub: "Wiley Online Library"
+    pdf: "representing-subjective.pdf"
+-
+    id_key: "d024"
+    categories: "GT"
+    tags:
+      - "refinements"
+      - "solution concepts"
+    authors:
+      - "Dekel, Eddie"
+      - "Fudenberg, Drew"
+      - "Levine, David"
+    title: "Subjective uncertainty over behavior strategies: A correction"
+    journal: "Journal of Economic Theory"
+    year: 2002
+    pub: "Elsevier"
+    pdf: "sub-uncert-behavior-strats-correction.pdf"
+-
+    id_key: "d025"
+    categories: "GT"
+    tags:
+      - "rationalizability"
+    authors:
+      - "Dekel, Eddie"
+      - "Wolinsky, Asher"
+    title: "Rationalizable outcomes of large private-value first-price discrete auctions"
+    journal: "Games and Economic Behavior"
+    vol: 43
+    num: 2
+    pages: "175-188"
+    year: 2003
+    pub: "Elsevier"
+    pdf: "rational-outcomes-large-pv.pdf"
+-
+    id_key: "d026"
+    categories: "GT"
+    tags:
+      - "learning"
+    authors:
+      - "Dekel, Eddie"
+      - "Fudenberg, Drew"
+      - "Levine, David K"
+    title: "Learning to play Bayesian games"
+    journal: "Games and Economic Behavior"
+    vol: 46
+    num: 2
+    pages: "282-303"
+    year: 2004
+    pub: "Elsevier"
+    pdf: "learning-play-bayesian-games.pdf"
+-
+    id_key: "d027"
+    categories: "GT"
+    tags:
+      - "reputation"
+      - "testing experts"
+    authors:
+      - "Cripps, Martin W"
+      - "Dekel, Eddie"
+      - "Pesendorfer, Wolfgang"
+    title: "Reputation with equal discounting in repeated games with strictly conflicting interests"
+    journal: "Journal of Economic Theory"
+    vol: 121
+    num: 2
+    pages: "259-272"
+    year: 2005
+    pub: "Elsevier"
+    pdf: "reputation-equal-discounting-rep-games.pdf"
+-
+    id_key: "d028"
+    categories: "GT"
+    tags:
+      - "type spaces"
+    authors:
+      - "Dekel, Eddie"
+      - "Fudenberg, Drew"
+      - "Morris, Stephen"
+    title: "Topologies on types"
+    journal: "Harvard Institute of Economic Research Discussion Paper"
+    num: 2093
+    year: 2005
+    pdf: "topologies-on-types.pdf"
+-
+    id_key: "d029"
+    categories: "GT"
+    tags:
+      - "evolution"
+    authors:
+      - "Dekel, Eddie"
+      - "Ely, Jeffrey C"
+      - "Yilankaya, Okan"
+    title: "Evolution of preferences"
+    journal: "The Review of Economic Studies"
+    vol: 74
+    num: 3
+    pages: "685-704"
+    year: 2007
+    pub: "Wiley-Blackwell"
+    pdf: "evolution of-preferences.pdf"
+-
+    id_key: "d030"
+    categories: "GT"
+    tags:
+      - "type spaces"
+      - "rationalizability"
+      - "solution concepts"
+    authors:
+      - "Dekel, Eddie"
+      - "Fudenberg, Drew"
+      - "Morris, Stephen"
+    title: "Interim correlated rationalizability"
+    journal: "Theoretical Economics"
+    year: 2007
+    pub: "Society for Economic Theory"
+    pdf: "interim-correlated-rationalizability.pdf"
+-
+    id_key: "d2007-representing"
+    categories: "DT"
+    tags:
+      - "unawareness"
+      - "commitment and flexibility"
+    authors:
+      - "Dekel, Eddie"
+      - "Lipman, Barton L"
+      - "Rustichini, Aldo"
+      - "Sarver, Todd"
+    title: "Representing Preferences with a Unique Subjective State Space: A Corrigendum"
+    journal: "Econometrica"
+    vol: 75
+    num: 2
+    pages: "591-600"
+    year: 2007
+    pub: "Wiley Online Library"
+    pdf: "representing-subjective-corrigendum.pdf"
+-
+    id_key: "d031"
+    categories: 
+    tags:
+      - "voting theory"
+    authors:
+      - "Dekel, Eddie"
+      - "Jackson, Matthew O"
+      - "Wolinsky, Asher"
+    title: "Vote buying: General elections"
+    journal: "Journal of Political Economy"
+    vol: 116
+    num: 2
+    pages: "351-380"
+    year: 2008
+    pub: "The University of Chicago Press"
+    pdf: "vote-buying-genera-elections.pdf"
+-
+    id_key: "d032"
+    categories: 
+    tags:
+      - "voting theory"
+    authors:
+      - "Dekel, Eddie"
+      - "Jackson, Matthew O"
+      - "Wolinsky, Asher"
+    title: "Vote buying: Legislatures and lobbying"
+    journal: "Quarterly Journal of Political Science"
+    vol: 4
+    pages: "103-128"
+    year: 2009
+    pdf: "vote-buying-legislatures-lobbying.pdf"
+-
+    id_key: "d2009-temptation"
+    categories: "DT"
+    tags:
+      - "commitment and flexibility"
+    authors:
+      - "Dekel, Eddie"
+      - "Lipman, Barton L"
+      - "Rustichini, Aldo"
+    title: "Temptation-driven preferences"
+    journal: "The Review of Economic Studies"
+    vol: 76
+    num: 3
+    pages: "937-971"
+    year: 2009
+    pub: "Wiley-Blackwell"
+    pdf: "temptation-driven-preferences.pdf"
+-
+    id_key: "d033"
+    categories: "DT"
+    tags:
+      - "surveys and perspectives"
+      - "other"
+    authors:
+      - "Dekel, Eddie"
+      - "Lipman, Barton L"
+    title: "How (not) to do decision theory"
+    journal: "Annu. Rev. Econ."
+    vol: 2
+    num: 1
+    pages: "257-282"
+    year: 2010
+    pub: "Annual Reviews"
+    pdf: "how-not-to-do-decision-theory.pdf"
+-
+    id_key: "d034"
+    categories: 
+    tags:
+      - "voting theory"
+    authors:
+      - "Dekel, Eddie"
+      - "Wolinsky, Asher"
+    title: "Buying shares and/or votes for corporate control"
+    journal: "The Review of Economic Studies"
+    vol: 79
+    num: 1
+    pages: "196-226"
+    year: 2012
+    pub: "Oxford University Press"
+    pdf: "buying-votes-corporate-control.pdf"
+-
+    id_key: "d2012-costly"
+    categories: "DT"
+    tags:
+      - "commitment and flexibility"
+    authors:
+      - "Dekel, Eddie"
+      - "Lipman, Barton L"
+    title: "Costly self-control and random self-indulgence"
+    journal: "Econometrica"
+    vol: 80
+    num: 3
+    pages: "1271-1302"
+    year: 2012
+    pub: "Wiley Online Library"
+    pdf: "costly-self-control.pdf"
+-
+    id_key: "d035"
+    categories: 
+    tags:
+      - "working papers"
+    authors:
+      - "Dekel, Eddie"
+      - "Pauzner, Ady"
+    title: "Job satisfaction and the wage gap."
+    year: 2014
+    pdf: "job-satisfaction-and-wage-gap.pdf"
+-
+    id_key: "d036"
+    categories: 
+    tags:
+      - "mechanism design"
+    authors:
+      - "Ben-Porath, Elchanan"
+      - "Dekel, Eddie"
+      - "Lipman, Barton L"
+    title: "Optimal allocation with costly verification"
+    journal: "American Economic Review"
+    vol: 104
+    num: 12
+    pages: "3779-3813"
+    year: 2014
+    pdf: "opt-allocation-costly-verification.pdf"
+-
+    id_key: "d037"
+    categories: 
+    tags:
+      - "voting theory"
+    authors:
+      - "Dekel, Eddie"
+      - "Piccione, Michele"
+    title: "The Strategic Dis/advantage of Voting Early"
+    journal: "American Economic Journal: Microeconomics"
+    vol: 6
+    num: 4
+    pages: "162-79"
+    year: 2014
+    pdf: "strategic-voting-early.pdf"
+-
+    id_key: "d038"
+    categories: "GT"
+    tags:
+      - "surveys and perspectives"
+      - "common knowledge"
+      - "type spaces"
+      - "rationalizability"
+    authors:
+      - "Dekel, Eddie"
+      - "Siniscalchi, Marciano"
+    title: "Epistemic game theory"
+    journal: "Chapter in Handbook of Game Theory with Economic Applications"
+    vol: 4
+    pages: "619-702"
+    year: 2015
+    pub: "Elsevier"
+    pdf: "epistemic-game-theory.pdf"
+-
+    id_key: "d039"
+    categories: 
+    tags:
+      - "mechanism design"
+      - "surveys and perspectives"
+    authors: "Dekel, Eddie"
+    title: "On Evidence in Games and Mechanism Design "
+    journal: "Econometric Society Presidential Address"
+    year: 2016
+    pdf: "pres-address-2016-slides.pdf"
+-
+    id_key: "d2016-lex"
+    categories: "DT"
+    tags:
+      - "lexicographic beliefs"
+    authors:
+      - "Dekel, Eddie"
+      - "Friedenberg, Amanda"
+      - "Siniscalchi, Marciano"
+    title: "Lexicographic beliefs and assumption"
+    journal: "Econometrica"
+    vol: 163
+    pages: "955-985"
+    year: 2016
+    pub: "Elsevier"
+    pdf: "lexicographic-beliefs-and-assumption.pdf"
+-
+    id_key: "d040"
+    categories: "DT"
+    tags: 
+      - "mechanism design"
+      - "unawareness"
+    authors:
+      - "Ben-Porath, Elchanan"
+      - "Dekel, Eddie"
+      - "Lipman, Barton L"
+    title: "Disclosure and choice"
+    journal: "The Review of Economic Studies"
+    vol: 85
+    num: 3
+    pages: "1471-1501"
+    year: 2018
+    pub: "Oxford University Press"
+    pdf: "disclosure-choice.pdf"
+-
+    id_key: "d041"
+    categories: "GT"
+    tags: 
+    authors:
+      - "Dekel, Eddie"
+      - "Pauzner, Ady"
+    title: "Uniqueness, stability and comparative statics for two-person Bayesian games with strategic substitutes"
+    journal: "Economic Theory"
+    vol: 66
+    num: 3
+    pages: "747-761"
+    year: 2018
+    pub: "Springer"
+    pdf: "uniqueness-stability.pdf"
+-
+    id_key: "d042"
+    categories: 
+    tags: 
+      - "mechanism design"
+    authors:
+      - "Ben-Porath, Elchanan"
+      - "Dekel, Eddie"
+      - "Lipman, Barton L"
+    title: "Mechanisms with evidence: Commitment and robustness"
+    journal: "Econometrica"
+    vol: 87
+    num: 2
+    pages: "529-566"
+    year: 2019
+    pub: "Wiley Online Library"
+    pdf: "evidence.pdf"
