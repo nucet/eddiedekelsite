@@ -1,0 +1,36 @@
+name: Generate bibliography files
+
+on:
+  push:
+    branches: [ source ]
+  pull_request:
+    branches: [ source ]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - uses: ruby/setup-ruby@v1
+      with:
+        ruby-version: 2.6
+    - name: Install dependencies
+      run: bundle install
+    - name: Generate pages for bibliography
+      run: bundle exec jekyll pagemaster papers
+    - name: Make bibliography files txt
+      run: sed -i 's/.html\"/.txt\"/' _papers/*.md
+    - name: Commit files
+      run: |
+        git config --local user.email "pagemaster@economists.us"
+        git config --local user.name "Pagemaster"
+        git add -f _papers/
+        git commit -m "Generate papers from papers.yml"
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        branch: 'master'
+        force: true
