@@ -16,8 +16,18 @@ jobs:
     - uses: ruby/setup-ruby@v1
       with:
         ruby-version: 2.6
+    - name: Cache dependencies
+      id: cache-deps
+      uses: actions/cache@v1
+      with:
+        path: vendor/cache
+        key: bundle-use-ruby-ubuntu-latest-2.6-${{ hashFiles('**/Gemfile.lock') }}
+        restore-keys: |
+          bundle-use-ruby-ubuntu-latest-2.6-
     - name: Install dependencies
-      run: bundle install
+      run: |
+        bundle install
+        bundle package
     - name: Generate pages for bibliography
       run: bundle exec jekyll pagemaster papers
     - name: Make bibliography files txt
