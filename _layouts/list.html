@@ -3,6 +3,6 @@ layout: default
 ---
 {% assign sorted = site.papers | sort:"year" | reverse %}
 {% for paper in sorted %}{% if page.category == nil or paper.categories contains page.category %}{% if page.tag == nil or paper.tags contains page.tag %}
-<a href="{{ site.url }}/pdf/{{ paper.pdf }}">{{ paper.title }}</a> ({{ paper.authors | join: " and "}}), <em>{{ paper.journal }}</em>, {{ paper.year }} <a href="{{ site.url }}{{ paper.url }}">[bib]</a>
+<a href="{{ site.url }}/pdf/{{ paper.pdf }}">{{ paper.title }}</a>{% if paper.authors.size > 1 %} (with {{ paper.authors | where_exp:"item", "item != 'Dekel, Eddie'" | join: " and "}}){% endif %}, <em>{{ paper.journal }}</em>, {{ paper.year }} <a href="{{ site.url }}{{ paper.url }}">[bib]</a>
 <hr />
 {% endif %}{% endif %}{% endfor %}
