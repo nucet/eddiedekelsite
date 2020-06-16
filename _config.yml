@@ -13,9 +13,9 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Eddie Dekel Site
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://eddiedekelsite.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+title: Eddie Dekel Citations
+baseurl: "/dekel" # the subpath of your site, e.g. /blog
+url: "https://cet.econ.northwestern.edu" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 markdown: kramdown

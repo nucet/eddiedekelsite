@@ -4,7 +4,7 @@
 
 If you are reading this, you are probably an RA for the CET at Northwestern University and you want to know how to easily add papers to Eddie's website. Fortunately, it's not that difficult. You just have to edit the database file [papers.yml](_data/papers.yml).
 
-You then copy and paste the text that appears on [this site](https://eddiedekelsite.github.io/). At the time of writing, Google sites is in transition and there is no api for the new version. As a result, copying and pasting machine generated citations is the most automated solution available.
+You then copy and paste the text that appears on [this site](https://cet.econ.northwestern.edu/dekel/). At the time of writing, Google sites is in transition and there is no api for the new version. As a result, copying and pasting machine generated citations is the most automated solution available.
 
 This is the only file you will typically have to edit. All of the other pages are generated from this database. I describe the templates that generate the site in the next section.
 
@@ -36,9 +36,9 @@ Some of these names should be self explanatory including `authors`, `title`, `jo
 
 The `id_key` needs to be a unique for each entry, but it does not have to meaningful. It will be used as the citation name in the generated bib citations.
 
-The `categories` key determines whether the paper is game theory (`"GT"`) or decision theory (`"DT"`). The paper can also be both (as in the above) or neither. If you add a category to a paper, it will appear on the page associated with that category (eg. [Game Theory](https://eddiedekelsite.github.io/game-theory/)).
+The `categories` key determines whether the paper is game theory (`"GT"`) or decision theory (`"DT"`). The paper can also be both (as in the above) or neither. If you add a category to a paper, it will appear on the page associated with that category (eg. [Game Theory](https://cet.econ.northwestern.edu/dekel/game-theory/)).
 
-The `tags` key is very similar, but it is used for the finer categories like `"lexicographic beliefs"`. If you add a tag on a paper, it will appear on the page associated with that tag (eg. [Evolution](https://eddiedekelsite.github.io/game-theory/evolution.html)).
+The `tags` key is very similar, but it is used for the finer categories like `"lexicographic beliefs"`. If you add a tag on a paper, it will appear on the page associated with that tag (eg. [Evolution](https://cet.econ.northwestern.edu/dekel/game-theory/evolution.html)).
 
 The `pdf` tag gives the location of a pdf placed in the [pdf folder](pdf). If you add PDFs here, they will be hosted by GitHub, and links to the files will be automatically generated for you.
 
@@ -48,7 +48,7 @@ You can see the template for  the bibliography [here](_layouts/bib.html) and the
 
 ### Lists
 
-Basically, for every tag (eg. reputation), the [list template](_layouts/list.html) loops over the entire database and only returns papers that have this tag. The syntax looks pretty weird because it's written in a template language called liquid. I used it because GitHub can read liquid templates to generate the [site](https://eddiedekelsite.github.io).
+Basically, for every tag (eg. reputation), the [list template](_layouts/list.html) loops over the entire database and only returns papers that have this tag. The syntax looks pretty weird because it's written in a template language called liquid. I used it because GitHub can read liquid templates to generate the [site](https://cet.econ.northwestern.edu/dekel).
 
 I describe the steps below
 1. Sort all papers in reverse chronological order
@@ -69,7 +69,7 @@ I describe the steps below
     ```
 5. Run the specific HTML to be repeated in the list using variables from the [database](_data\papers.yml). It also checks to see if the paper is single authored and reacts accordingly.
     ```
-    <a href="{{ site.url }}/pdf/{{ paper.pdf }}">{{ paper.title }}</a>{% if paper.authors.size > 1 %} (with {{ paper.authors | where_exp:"item", "item != 'Dekel, Eddie'" | join: " and "}}){% endif %}, <em>{{ paper.journal }}</em>, {{ paper.year }} <a href="{{ site.url }}{{ paper.url }}">[bib]</a>
+    <a href="{{ site.url }}{{ site.baseurl }}/pdf/{{ paper.pdf }}">{{ paper.title }}</a>{% if paper.authors.size > 1 %} (with {{ paper.authors | where_exp:"item", "item != 'Dekel, Eddie'" | join: " and "}}){% endif %}, <em>{{ paper.journal }}</em>, {{ paper.year }} <a href="{{ site.url }}{{ site.baseurl }}{{ paper.url }}">[bib]</a>
     <hr />
     ```
 6. Close all the if statements and the fir loop
