@@ -5,7 +5,10 @@ layout: compress
 <html lang="{{ page.lang | default: site.lang | default: "en" }}">
   <head>
     <title>{{ site.title }}</title>
-    <link rel="stylesheet" href="{{ '/assets/css/style.css' | absolute_url }}">
+    <style>
+      {% capture scss_sheet %}{% include style.scss %}{% endcapture %}
+      {{ scss_sheet | scssify }}
+    </style>
   </head>
   <body>
     <main>
