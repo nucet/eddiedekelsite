@@ -21,21 +21,20 @@ jobs:
       uses: actions/cache@v1
       with:
         path: vendor/cache
-        key: bundle-use-ruby-ubuntu-latest-2.6-${{ hashFiles('**/Gemfile.lock') }}
+        key: bundle-use-ruby-ubuntu-latest-jekyll-${{ hashFiles('**/Gemfile.lock') }}
         restore-keys: |
-          bundle-use-ruby-ubuntu-latest-2.6-
+          bundle-use-ruby-ubuntu-latest-jekyll-
     - name: Install dependencies
       run: |
         bundle install
         bundle package
     - name: Generate pages for bibliography
-      run: bundle exec jekyll pagemaster papers
-    - name: Make bibliography files txt
-      run: sed -i 's/.html\"/.txt\"/' _papers/*.md
+      run: |
+        bundle exec jekyll pagemaster papers
     - name: Build site
-      run: bundle exec jekyll build
-    - name: Prevent rerun of jekyll
-      run: touch '_site/.nojekyll'
+      run: |
+        bundle exec jekyll build
+        touch '_site/.nojekyll'
     - name: Deploy
       uses: s0/git-publish-subdir-action@develop
       env:
