@@ -17,6 +17,8 @@ title: Eddie Dekel Citations
 baseurl: "/dekel" # the subpath of your site, e.g. /blog
 url: "https://cet.econ.northwestern.edu" # the base hostname & protocol for your site, e.g. http://example.com
 
+theme: jekyll-citations
+
 # Build settings
 markdown: kramdown
 plugins:
