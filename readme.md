@@ -44,11 +44,11 @@ The `pdf` tag gives the location of a pdf placed in the [pdf folder](pdf). If yo
 
 ## How it works
 
-You can see the template for  the bibliography [here](_layouts/bib.html) and the template for the lists [here](_layouts/list.html).
+The files are rendered using [Jekyll Citations](https://github.com/nucet/jekyll-citations/blob/master/_layouts/bib.html). You can find the template for the bibliography [here](https://github.com/nucet/jekyll-citations/blob/master/_layouts/bib.html) and the template for the lists [here](https://github.com/nucet/jekyll-citations/blob/master/_layouts/list.html).
 
 ### Lists
 
-Basically, for every tag (eg. reputation), the [list template](_layouts/list.html) loops over the entire database and only returns papers that have this tag. The syntax looks pretty weird because it's written in a template language called liquid. I used it because GitHub can read liquid templates to generate the [site](https://cet.econ.northwestern.edu/dekel).
+Basically, for every tag (eg. reputation), the [list template](https://github.com/nucet/jekyll-citations/blob/master/_layouts/list.html) loops over the entire database and only returns papers that have this tag. The syntax looks pretty weird because it's written in a template language called liquid. I used it because GitHub can read liquid templates to generate the [site](https://cet.econ.northwestern.edu/dekel).
 
 I describe the steps below
 1. Sort all papers in reverse chronological order
@@ -81,6 +81,6 @@ I describe the steps below
 
 ### Bibs
 
-The [bib template](_layouts/bib.html) is more self explanatory. For each paper, it just dumps all of the information from the database into bib format.
+The [bib template](https://github.com/nucet/jekyll-citations/blob/master/_layouts/bib.html) is more self explanatory. For each paper, it just dumps all of the information from the database into bib format.
 
 If you do not have access to this repository, you can email someone who committed recently. You should be able to find my email [on my GitHub profile](https://github.com/MattWThomas).
