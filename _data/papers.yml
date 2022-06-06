@@ -623,17 +623,16 @@
     categories: "DT"
     tags:
       - "surveys and perspectives"
-      - "other"
     authors:
       - "Dekel, Eddie"
       - "Lipman, Barton L"
-    title: "How (not) to do decision theory"
-    journal: "Annu. Rev. Econ."
+    title: "How (not) to do decision theory."
+    journal: "Annual Review of Economics"
     vol: 2
     num: 1
     pages: "257-282"
     year: 2010
-    pub: "Annual Reviews"
+    pub: "Annual Review of Economics"
     pdf: "how-not-to-do-decision-theory.pdf"
 -
     id_key: "d034"
