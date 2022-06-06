@@ -804,28 +804,8 @@
     pub: "Wiley Online Library"
     pdf: "evidence.pdf"
     
-    id_key: "d043"
-    categories: 
-    tags:
-      - "working papers"
-    authors:
-      - "Ben-Porath, Elchanan"
-      - "Dekel, Eddie"
-      - "Lipman, Barton L"
-    title: "Mechanism design for acquisition of/stochastic evidence."
-    year: 2021
-    pdf: "stochastic.pdf"
     
-    id_key: "d044"
-    categories: 
-    tags:
-      - "working papers"
-    authors:
-      - "Dekel, Eddie"
-      - "Quah, John K-H"
-      - "Sinander, Ludvig"
-    title: "Comparative statics with adjustment costs and the le Chatelier principle."
-    year: 2022
-    pdf: "adjustment-costs.pdf"
+    
+
     
     
