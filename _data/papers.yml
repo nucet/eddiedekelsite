@@ -803,3 +803,15 @@
     year: 2019
     pub: "Wiley Online Library"
     pdf: "evidence.pdf"
+    
+    id_key: "d043"
+    categories: 
+    tags:
+      - "working papers"
+    authors:
+	  - "Ben-Porath, Elchanan"
+      - "Dekel, Eddie"
+      - "Lipman, Barton L"
+    title: "Mechanism design for acquisition of/stochastic evidence."
+    year: 2021
+    pdf: "stochastic.pdf"
