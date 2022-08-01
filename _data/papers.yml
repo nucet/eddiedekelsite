@@ -626,7 +626,7 @@
     authors:
       - "Dekel, Eddie"
       - "Lipman, Barton L"
-    title: "How (not) to do decision theory."
+    title: "How (not) to do decision theory"
     journal: "Annual Review of Economics"
     vol: 2
     num: 1
@@ -674,7 +674,7 @@
     authors:
       - "Dekel, Eddie"
       - "Pauzner, Ady"
-    title: "Job satisfaction and the wage gap."
+    title: "Job satisfaction and the wage gap"
     year: 2014
     pdf: "job-satisfaction-and-wage-gap.pdf"
 -
@@ -812,7 +812,7 @@
       - "Ben-Porath, Elchanan"
       - "Dekel, Eddie"
       - "Lipman, Barton L"
-    title: "Mechanism design for acquisition of/stochastic evidence."
+    title: "Mechanism design for acquisition of/stochastic evidence"
     year: 2021
     pdf: "stochastic.pdf"
 -
@@ -824,9 +824,40 @@
       - "Dekel, Eddie"
       - "Quah, John K-H"
       - "Sinander, Ludvig"
-    title: "Comparative statics with adjustment costs and the le Chatelier principle."
+    title: "Comparative statics with adjustment costs and the le Chatelier principle"
     year: 2022
     pdf: "adjustment-costs.pdf"
+-
+    id_key: "d045"
+    categories: 
+    tags:
+      - "other"
+    authors:
+	  - "Zhang, Xiyun"
+	  - "Lobinska, Gabriela"
+	  - "Feldman, Michal"
+      - "Dekel, Eddie"
+      - "Nowak, Martin A"
+      - "Pilpel, Yitzhak"
+	  - "Pauzner, Yonatan"
+	  - "Barzel, Baruch"
+	  - "Pauzner, Ady"
+    title: "A spatial vaccination strategy to reduce the risk of vaccine-resistant variants"
+    year: 2022
+    pdf: "spatial-vaccination.pdf"
+	journal: "PLOS Computational Biology (forthcoming)"
+-
+	id_key: "d046"
+    categories: 
+    tags:
+      - "working papers"
+    authors:
+      - "Dekel, Eddie"
+      - "Geanakoplos, John"
+      - "Kominers, Scott Duke"
+    title: "Jerry R. Green (1946-)"
+    year: 2022
+    pdf: "green.pdf"
     
 
     
