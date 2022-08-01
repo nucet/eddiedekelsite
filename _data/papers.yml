@@ -833,21 +833,21 @@
     tags:
       - "other"
     authors:
-	  - "Zhang, Xiyun"
-	  - "Lobinska, Gabriela"
-	  - "Feldman, Michal"
+      - "Zhang, Xiyun"
+      - "Lobinska, Gabriela"
+      - "Feldman, Michal"
       - "Dekel, Eddie"
       - "Nowak, Martin A"
       - "Pilpel, Yitzhak"
-	  - "Pauzner, Yonatan"
-	  - "Barzel, Baruch"
-	  - "Pauzner, Ady"
+      - "Pauzner, Yonatan"
+      - "Barzel, Baruch"
+      - "Pauzner, Ady"
     title: "A spatial vaccination strategy to reduce the risk of vaccine-resistant variants"
     year: 2022
     pdf: "spatial-vaccination.pdf"
-	journal: "PLOS Computational Biology (forthcoming)"
+    journal: "PLOS Computational Biology (forthcoming)"
 -
-	id_key: "d046"
+    id_key: "d046"
     categories: 
     tags:
       - "working papers"
