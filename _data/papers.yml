@@ -155,7 +155,8 @@
     categories: "GT"
     tags:
       - "refinements"
-    authors: "Dekel, Eddie"
+    authors: 
+      - "Dekel, Eddie"
     title: "Simultaneous offers and the inefficiency of bargaining: A two-period example"
     journal: "Journal of Economic Theory"
     vol: 50
@@ -312,7 +313,8 @@
     tags:
       - "surveys and perspectives"
       - "refinements"
-    authors: "Dekel, Eddie"
+    authors: 
+      - "Dekel, Eddie"
     title: "Discussion of: 'Foundations of game theory,' by Kenneth J. Binmore and 'Refinements of Nash equilibrium' by Eric van Damme"
     journal: "Advances in economic theory: Sixth World Congress"
     pages: "76"
@@ -732,7 +734,8 @@
     tags:
       - "mechanism design"
       - "surveys and perspectives"
-    authors: "Dekel, Eddie"
+    authors: 
+      - "Dekel, Eddie"
     title: "On Evidence in Games and Mechanism Design "
     journal: "Econometric Society Presidential Address"
     year: 2016
@@ -825,7 +828,7 @@
       - "Quah, John K-H"
       - "Sinander, Ludvig"
     title: "Comparative statics with adjustment costs and the le Chatelier principle"
-    year: 2022
+    year: 2023
     pdf: "adjustment-costs.pdf"
 -
     id_key: "d045"

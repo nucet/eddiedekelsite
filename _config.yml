@@ -34,6 +34,9 @@ collections:
 sass:
   style: compressed
 
+citations:
+  author: "Dekel, Eddie"
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
@@ -45,4 +48,4 @@ exclude:
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
-  - readme.md
+  - README.md
