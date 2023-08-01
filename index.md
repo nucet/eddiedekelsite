@@ -5,4 +5,4 @@ title: "Index"
 layout: home
 ---
 
-The code that generates this citation index is [here]({{ site.github.repository_url }}).
+The code that generates this citation index is [here](https://github.com/nucet/dekel).
