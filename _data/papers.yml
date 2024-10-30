@@ -816,7 +816,7 @@
       - "Dekel, Eddie"
       - "Lipman, Barton L"
     title: "Mechanism design for acquisition of/stochastic evidence"
-    year: 2021
+    year: 2023
     pdf: "stochastic.pdf"
 -
     id_key: "d044"
@@ -828,7 +828,7 @@
       - "Quah, John K-H"
       - "Sinander, Ludvig"
     title: "Comparative statics with adjustment costs and the le Chatelier principle"
-    year: 2023
+    year: 2024
     pdf: "adjustment-costs.pdf"
 -
     id_key: "d045"
@@ -853,7 +853,7 @@
     id_key: "d046"
     categories: 
     tags:
-      - "working papers"
+      - "surveys and perspectives"
     authors:
       - "Dekel, Eddie"
       - "Geanakoplos, John"
@@ -862,6 +862,28 @@
     year: 2022
     pdf: "green.pdf"
     
-
+-
+    id_key: "d047"
+    categories: 
+    tags:
+      - "working papers"
+    authors:
+      - "Ben-Porath, Elchanan"
+      - "Dekel, Eddie"
+      - "Lipman, Barton L"
+    title: "Sequential Mechanisms for Evidence Acquisition"
+    year: 2024
+    pdf: "evidence-acquisition.pdf"
     
     
+    id_key: "d047"
+    categories: 
+    tags:
+      - "working papers"
+    authors:
+      - "Ben-Porath, Elchanan"
+      - "Dekel, Eddie"
+      - "Lipman, Barton L"
+    title: "Sequential Mechanisms for Evidence Acquisition Appendix"
+    year: 2023
+    pdf: "evidence-acquisition-appendix.pdf"
